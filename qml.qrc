@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AuthorizationPage.qml</file>
+        <file>AdminPage.qml</file>
+        <file>StudentPage.qml</file>
+        <file>SimpleButton.qml</file>
+        <file>CustomBorder.qml</file>
+        <file>NormalTableView.qml</file>
+        <file>AdminStudentPanel.qml</file>
+        <file>AdminBrigadePanel.qml</file>
+        <file>AdminGroupPanel.qml</file>
+        <file>AdminPaymentPanel.qml</file>
+        <file>AdminBrigStudPanel.qml</file>
+        <file>Warning.qml</file>
+        <file>AdminObjectPanel.qml</file>
+        <file>AdminTaskPanel.qml</file>
+        <file>StudenProfilePanel.qml</file>
+        <file>Images/brigade.svg</file>
+        <file>Images/building.svg</file>
+        <file>Images/profile.svg</file>
+    </qresource>
+</RCC>
